@@ -1,3 +1,3 @@
 # NLP-Automation
 
-![GIF][media/video.mp4]
+![GIF](media/video.mp4)
